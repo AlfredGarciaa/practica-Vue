@@ -16,7 +16,7 @@ const decrementar = () => {
 }
 </script>
 
-<style scoped>
+<style>
 p {
   color: red
 }
